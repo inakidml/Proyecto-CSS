@@ -10,6 +10,8 @@
     <meta name="description" content="Proyecto de CSS para la asignatura Lenguaje de marcas">
     <meta name="author" content="Iñaki">
     <link rel="icon" href="imagenes/favicon.png">
+    <!-- Estilo para botón github -->
+    <link href="https://file.myfontastic.com/XeWxYhMRSjTbPWcVGS8SMT/icons.css" rel="stylesheet">
 
     <title>Proyecto CSS usando Bootstrap</title>
 
@@ -263,7 +265,7 @@ Contenedor marketing, dos columnas de texto y las featurettes
     <div class="row featurette">
         <div class="col-md-4"></div>
         <div class="col-md-4 text-center" class="github" >
-    <p><a class="btn btn-default" href="https://github.com/inakidml/Proyecto-CSS" role="button">Proyecto en GitHub</a></p>
+    <p><a class="icon-social-github" href="https://github.com/inakidml/Proyecto-CSS" role="button"></a></p>
         </div>
         <div clas="col-md-4"></div>
 </div>

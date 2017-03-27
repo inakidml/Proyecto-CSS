@@ -6,4 +6,12 @@ body{
 hr{
     border-color: #0f0f0f;
 }
+.icon-social-github{
 
+    font-size: 80px;
+    color: #0f0f0f;
+
+}
+a:hover{
+    color: #0f0f0f;
+}
