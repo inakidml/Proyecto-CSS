@@ -42,7 +42,7 @@
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="#">Home</a></li><!--Marcado como activo -->
                         <li><a href="#about">Acerca de</a></li>
-                        <li><a href="#contact">Contacto</a></li>
+                        <li><a href="https://github.com/inakidml/Proyecto-CSS">GitHub</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
                                aria-haspopup="true" aria-expanded="false">Desplegable <span class="caret"></span></a>
@@ -60,7 +60,6 @@
                 </div>
             </div>
         </nav>
-
     </div>
 </div>
 
@@ -261,6 +260,13 @@ Contenedor marketing, dos columnas de texto y las featurettes
 
     <!-- /Fin de las FEATURETTES -->
 
+    <div class="row featurette">
+        <div class="col-md-4"></div>
+        <div class="col-md-4 text-center" class="github" >
+    <p><a class="btn btn-default" href="https://github.com/inakidml/Proyecto-CSS" role="button">Proyecto en GitHub</a></p>
+        </div>
+        <div clas="col-md-4"></div>
+</div>
 
     <!-- FOOTER -->
     <footer>
